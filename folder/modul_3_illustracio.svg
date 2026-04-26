@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 240" role="img" aria-labelledby="imgTitle imgDesc">
+<title id="imgTitle">Habilitats orals i tecnologia a EPA</title>
+<desc id="imgDesc">Il·lustració d'una persona adulta amb auriculars que practica la conversa, una bafarada de diàleg i un telèfon intel·ligent amb una forma d'ona d'àudio, amb lletres decoratives À, ñ, Ç, ï representant la diversitat lingüística.</desc>
+
+<!-- Fons arrodonit -->
+<rect x="0" y="0" width="680" height="240" rx="12" fill="#EAF2F8"/>
+
+<!-- Cercles decoratius de fons -->
+<circle cx="625" cy="40" r="75" fill="#FEF5E7"/>
+<circle cx="55" cy="210" r="55" fill="#FEF5E7" opacity="0.7"/>
+<circle cx="500" cy="210" r="22" fill="#FEF5E7" opacity="0.6"/>
+<circle cx="140" cy="40" r="18" fill="#FEF5E7" opacity="0.5"/>
+
+<!-- Figura de persona amb auriculars -->
+<g transform="translate(170, 135)">
+  <!-- Cos/espatles -->
+  <path d="M -55 60 Q -60 100 -55 115 L 55 115 Q 60 100 55 60 Q 35 45 0 45 Q -35 45 -55 60 Z" fill="#2E5C8A"/>
+  <!-- Coll -->
+  <rect x="-10" y="38" width="20" height="12" fill="#D4A574"/>
+  <!-- Cap -->
+  <ellipse cx="0" cy="0" rx="35" ry="38" fill="#E8B692"/>
+  <!-- Cabell -->
+  <path d="M -35 -8 Q -37 -38 0 -40 Q 37 -38 35 -8 Q 33 -20 20 -23 Q 0 -28 -20 -23 Q -33 -20 -35 -8" fill="#4A3425"/>
+  <!-- Cinta dels auriculars -->
+  <path d="M -38 -5 Q -38 -38 0 -40 Q 38 -38 38 -5" fill="none" stroke="#1F4060" stroke-width="5" stroke-linecap="round"/>
+  <!-- Auriculars externs -->
+  <ellipse cx="-38" cy="3" rx="10" ry="14" fill="#1F4060"/>
+  <ellipse cx="38" cy="3" rx="10" ry="14" fill="#1F4060"/>
+  <!-- Auriculars interns -->
+  <ellipse cx="-38" cy="3" rx="6" ry="9" fill="#2E5C8A"/>
+  <ellipse cx="38" cy="3" rx="6" ry="9" fill="#2E5C8A"/>
+  <!-- Llum LED als auriculars -->
+  <circle cx="-35" cy="3" r="1.5" fill="#F39C12"/>
+  <circle cx="35" cy="3" r="1.5" fill="#F39C12"/>
+  <!-- Ulls (tancats, somrient) -->
+  <path d="M -15 0 Q -12 -4 -9 0" fill="none" stroke="#4A3425" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M 9 0 Q 12 -4 15 0" fill="none" stroke="#4A3425" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Somriure -->
+  <path d="M -8 18 Q 0 26 8 18" fill="none" stroke="#4A3425" stroke-width="2" stroke-linecap="round"/>
+</g>
+
+<!-- Bafarada de diàleg -->
+<g transform="translate(280, 55)">
+  <path d="M 15 0 Q 0 0 0 15 L 0 55 Q 0 70 15 70 L 105 70 L 120 85 L 118 70 L 145 70 Q 160 70 160 55 L 160 15 Q 160 0 145 0 Z" fill="#FFFFFF" stroke="#2E5C8A" stroke-width="2.5"/>
+  <circle cx="45" cy="35" r="8" fill="#2E5C8A"/>
+  <circle cx="80" cy="35" r="8" fill="#F39C12"/>
+  <circle cx="115" cy="35" r="8" fill="#2E5C8A"/>
+</g>
+
+<!-- Telèfon mòbil -->
+<g transform="translate(530, 55)">
+  <!-- Carcassa -->
+  <rect x="0" y="0" width="82" height="145" rx="11" fill="#1F4060"/>
+  <!-- Pantalla -->
+  <rect x="5" y="14" width="72" height="118" rx="3" fill="#EAF2F8"/>
+  <!-- Altaveu superior -->
+  <rect x="33" y="7" width="16" height="3" rx="1.5" fill="#555"/>
+  <!-- Barra inferior -->
+  <rect x="26" y="137" width="30" height="2" rx="1" fill="#666"/>
+  <!-- Forma d'ona d'àudio -->
+  <g transform="translate(15, 45)">
+    <rect x="0" y="10" width="4" height="14" rx="2" fill="#2E5C8A"/>
+    <rect x="8" y="2" width="4" height="30" rx="2" fill="#2E5C8A"/>
+    <rect x="16" y="6" width="4" height="22" rx="2" fill="#F39C12"/>
+    <rect x="24" y="12" width="4" height="10" rx="2" fill="#2E5C8A"/>
+    <rect x="32" y="4" width="4" height="26" rx="2" fill="#F39C12"/>
+    <rect x="40" y="9" width="4" height="16" rx="2" fill="#2E5C8A"/>
+    <rect x="48" y="7" width="4" height="20" rx="2" fill="#2E5C8A"/>
+  </g>
+  <!-- Botó de reproducció -->
+  <circle cx="41" cy="100" r="13" fill="#F39C12"/>
+  <path d="M 37 93 L 37 107 L 48 100 Z" fill="#FFFFFF"/>
+</g>
+
+<!-- Ones de so que emergeixen del telèfon -->
+<g transform="translate(505, 130)" stroke="#F39C12" stroke-width="2.5" stroke-linecap="round" fill="none">
+  <path d="M 0 0 Q -10 -8 -18 0" opacity="0.4"/>
+  <path d="M 0 0 Q -16 -18 -30 0" opacity="0.65"/>
+</g>
+
+<!-- Lletres decoratives que representen la diversitat lingüística -->
+<text x="85" y="135" font-family="Calibri, Arial, sans-serif" font-size="22" font-weight="bold" fill="#2E5C8A" opacity="0.45">À</text>
+<text x="85" y="95" font-family="Calibri, Arial, sans-serif" font-size="18" font-weight="bold" fill="#F39C12" opacity="0.55">ñ</text>
+<text x="455" y="65" font-family="Calibri, Arial, sans-serif" font-size="20" font-weight="bold" fill="#2E5C8A" opacity="0.5">Ç</text>
+<text x="460" y="195" font-family="Calibri, Arial, sans-serif" font-size="18" font-weight="bold" fill="#1F4060" opacity="0.45">ï</text>
+</svg>
